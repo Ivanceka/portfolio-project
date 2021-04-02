@@ -43,11 +43,12 @@ h2 {
   font-size: 18px;
 }
 .btn-outline {
-  padding: 18px 30px;
+  padding: 15px 30px;
   border-radius: 4px;
   color: var(--branding-color);
   border: 1px solid var(--branding-color);
   font-size: 18px;
+  line-height: 27px;
 }
 .wraper {
   margin-left: 61px;
