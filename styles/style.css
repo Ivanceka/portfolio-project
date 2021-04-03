@@ -88,6 +88,13 @@ h2 {
 .work-content p {
   font-size: 14px;
 }
+.active {
+  color: var(--branding-color) !important;
+}
+.nav-item {
+  padding: 10px;
+}
+
 @media (max-width: 960px) {
   h1,
   h2 {
@@ -98,11 +105,11 @@ h2 {
     margin: 0;
   }
   .hero {
-    padding: 50px;
+    padding: 75px 0;
   }
   .content {
     text-align: center;
-    padding: 20px;
+    padding: 65px 20px;
   }
   .work-content h1 {
     line-height: 50px;
